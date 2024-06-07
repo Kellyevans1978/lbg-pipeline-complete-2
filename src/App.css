@@ -4,8 +4,8 @@
 }
 
 .colour-border{
-  border: 3px solid palevioletred;
-  padding: 10px;
+  border: 3px solid blue;
+  padding: 25px;
 }
 
 .header{
@@ -22,5 +22,5 @@ h3 {
 
 body  {
   padding: 10px;
-  background-color: white;
+  background-color: pink;
 }
